@@ -29,7 +29,8 @@ When an animal is detected:
 
 ## 🧱 System Architecture
 
-![System Architecture](images/System_architecture.png)
+![System Architecture](images/system_architecture.png)
+
 ---
 
 ## 🔄 Working Flow
@@ -44,17 +45,19 @@ When an animal is detected:
 ## 🔌 Hardware Setup
 
 ![Hardware Setup](images/hardware_setup.png)
+
 ---
 
 ## 📊 Output
 
 ### Detection Output
 
-![Detection](images/detection_output.png)
+![Detection Output](images/detection_output.png)
 
 ### Blynk Output
 
-![Blynk](images/blynk_output.png)
+![Blynk Output](images/blynk_output.png)
+
 ---
 
 ## 🧪 Testing
