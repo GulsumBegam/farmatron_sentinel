@@ -44,7 +44,6 @@ When an animal is detected:
 ## 🔌 Hardware Setup
 
 ![Hardware Setup](images/hardware_setup.png)
-
 ---
 
 ## 📊 Output
@@ -56,7 +55,6 @@ When an animal is detected:
 ### Blynk Output
 
 ![Blynk](images/blynk_output.png)
-
 ---
 
 ## 🧪 Testing
