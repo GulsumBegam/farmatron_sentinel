@@ -44,7 +44,7 @@ When an animal is detected:
 
 ## 🔌 Hardware Setup
 
-![Hardware Setup](images/hardware_setup.png)
+![Hardware Setup](images/hardwaresetup.png)
 
 ---
 
