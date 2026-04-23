@@ -1,3 +1,10 @@
+![IoT](https://img.shields.io/badge/Domain-IoT-blue)
+![ML](https://img.shields.io/badge/Model-Machine%20Learning-green)
+![ESP32](https://img.shields.io/badge/Hardware-ESP32--CAM-orange)
+![Blynk](https://img.shields.io/badge/Platform-Blynk-red)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Made by Gulsum](https://img.shields.io/badge/Made%20by-Gulsum%20Begam-purple)
+
 # 🌾 Farmatron Sentinel
 
 ### Smart Fence with Animal Detection using IoT & Machine Learning
