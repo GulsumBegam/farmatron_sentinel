@@ -29,7 +29,7 @@ When an animal is detected:
 
 ## 🧱 System Architecture
 
-![Test](images/system_architecture.png)
+![Test](https://github.com/GulsumBegam/farmatron_sentinel/blob/main/images/system_architecture.png)
 
 ---
 
