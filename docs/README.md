@@ -29,7 +29,7 @@ When an animal is detected:
 
 ## 🧱 System Architecture
 
-![System Architecture](images/system_architecture.png)
+![System Architecture](images/System_architecture.png)
 
 ---
 
