@@ -30,7 +30,6 @@ When an animal is detected:
 ## 🧱 System Architecture
 
 ![System Architecture](images/System_architecture.png)
-
 ---
 
 ## 🔄 Working Flow
